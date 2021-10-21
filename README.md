@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[!Songs](http://img.youtube.com/vi/NK9IDyaZvtU/0.jpg)](https://youtu.be/NK9IDyaZvtU?t=0s) 
-[![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s) 
+[![Enjoy](http://img.youtube.com/vi/NK9IDyaZvtU/0.jpg)](https://youtu.be/NK9IDyaZvtU?t=0s)
 
 <!--
 **Koartifact/Koartifact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
