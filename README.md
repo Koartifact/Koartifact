@@ -1,6 +1,5 @@
-### Hi there 👋
 
-![Blog](https://koartifact.tistory.com/)
+My Blog : Study, portfolio (https://koartifact.tistory.com/)
 
 
 ![Tree](https://cdn.pixabay.com/photo/2020/06/05/09/50/gold-foil-tree-of-life-5262414_960_720.png)
