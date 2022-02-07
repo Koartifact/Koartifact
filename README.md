@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![dream](https://user-images.githubusercontent.com/64429035/138249797-f1439d75-d8bc-424b-a289-8dcb1f8a2d39.jpg)
+![Blog](https://koartifact.tistory.com/)
+
+
+![Tree](https://cdn.pixabay.com/photo/2020/06/05/09/50/gold-foil-tree-of-life-5262414_960_720.png)
+
 
 <!--
 **Koartifact/Koartifact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
