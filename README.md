@@ -1,5 +1,6 @@
 
 Resume : https://koartifact.notion.site/Jin-cheol-Kim-8167db22c0b9468988a968fffbbbd74d
+ 
 My Blog : Study, portfolio (https://koartifact.tistory.com/)
 
 
