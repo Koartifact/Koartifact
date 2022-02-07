@@ -3,6 +3,7 @@ Resume : https://koartifact.notion.site/Jin-cheol-Kim-8167db22c0b9468988a968fffb
  
 My Blog : Study, portfolio (https://koartifact.tistory.com/)
 
+MBTI : INTP https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-intp
 
 ![Tree](https://cdn.pixabay.com/photo/2020/06/05/09/50/gold-foil-tree-of-life-5262414_960_720.png)
 
